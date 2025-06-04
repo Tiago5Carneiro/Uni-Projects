@@ -11,7 +11,7 @@
 
 | 2<sup>nd</sup> year - 1<sup>st</sup> semester | |
 | --- | :---: |
-| Laboratórios de Informática III | [Project]() |
+| Laboratórios de Informática III | [Project](https://github.com/Tiago5Carneiro/LI3) |
 | Fundamentos de Comunicação de Dados | [Project](https://github.com/Tiago5Carneiro/Projeto-CD) |
 
 | 2<sup>nd</sup> year - 2<sup>nd</sup> semester | |
@@ -37,4 +37,4 @@
 | --- | :---: |
 | Aprendizagem e Decisão Inteligentes | [Project](https://github.com/Tiago5Carneiro/ADI) |
 | Computação Gráfica | [Project](https://github.com/Tiago5Carneiro/CG-Project) |
-| Processamento de Linguagens | [Projects](https://github.com/Tiago5Carneiro/PL-Project) |
+| Processamento de Linguagens | [Project](https://github.com/Tiago5Carneiro/PL-Project) |
